@@ -40,7 +40,7 @@ module.exports = {
     // https://github.com/typescript-eslint/typescript-eslint/issues/389#issuecomment-509292674
     // Prettier has not been included as plugin to avoid performance impact
     // add it as an extension for your IDE
-    
+
   ],
 
   globals: {
@@ -54,7 +54,12 @@ module.exports = {
 
   // add your custom rules here
   rules: {
-    
+
+    'vue/no-mutating-props': 'off', // Disable this rule
+    'vue/no-v-text-v-html-on-component': 'off', // Disable this rule
+    'vue/no-useless-template-attributes': 'off', // Disable this rule
+    'vue/no-unused-components': 'off',
+
     'prefer-promise-reject-errors': 'off',
 
     'vue/multi-word-component-names': 'off',

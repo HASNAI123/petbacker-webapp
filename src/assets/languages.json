@@ -1,0 +1,128 @@
+[
+ {
+    "id": 1,
+    "value": "en",
+    "label": "footer.english",
+    "icon": "statics/images/flags/emc_ico_flag_us_uk.png",
+    "active": true
+  },
+  {
+    "id": 7,
+    "value": "zh_tw",
+    "label": "footer.traditional.chinese",
+    "icon": "statics/images/flags/emc_ico_flag_tw.png",
+    "active": true
+  },
+  {
+    "id": 3,
+    "value": "msmy",
+    "label": "footer.malaysia",
+    "icon": "statics/images/flags/emc_ico_flag_my.png",
+    "active": true
+  },
+  {
+    "id": 4,
+    "value": "eses",
+    "label": "footer.spanish",
+    "icon": "statics/images/flags/emc_ico_flag_es.png",
+    "active": true
+  },
+  {
+    "id": 5,
+    "value": "jajp",
+    "label": "footer.japanese",
+    "icon": "statics/images/flags/emc_ico_flag_ja.png",
+    "active": true
+  },
+  {
+    "id": 6,
+    "value": "dede",
+    "label": "footer.german",
+    "icon": "statics/images/flags/emc_ico_flag_de.png",
+    "active": true
+  },
+  {
+    "id": 2,
+    "value": "zh_cn",
+    "label": "footer.simplified.chinese",
+    "icon": "statics/images/flags/emc_ico_flag_cn.png",
+    "active": true
+  },
+  {
+    "id": 8,
+    "value": "thth",
+    "label": "footer.thai",
+    "icon": "statics/images/flags/emc_ico_flag_th.png",
+    "active": true
+  },
+  {
+    "id": 10,
+    "value": "frfr",
+    "label": "footer.french",
+    "icon": "statics/images/flags/emc_ico_flag_fr.png",
+    "active": true
+  },
+  {
+    "id": 11,
+    "value": "ptpt",
+    "label": "footer.portugese",
+    "icon": "statics/images/flags/emc_ico_flag_pt.png",
+    "active": true
+  },
+  {
+    "id": 12,
+    "value": "nlnl",
+    "label": "footer.netherlands",
+    "icon": "statics/images/flags/emc_ico_flag_nl.png",
+    "active": false
+  },
+  {
+    "id": 16,
+    "value": "idid",
+    "label": "footer.indonesia",
+    "icon": "statics/images/flags/emc_ico_flag_id.png",
+    "active": true
+  },
+  {
+    "id": 17,
+    "value": "sksk",
+    "label": "footer.slovak",
+    "icon": "statics/images/flags/emc_ico_flag_sk.png",
+    "active": true
+  },
+  {
+    "id": 18,
+    "value": "he",
+    "label": "footer.hebrew",
+    "icon": "statics/images/flags/emc_ico_flag_he.png",
+    "active": false
+  },
+  {
+    "id": 19,
+    "value": "itit",
+    "label": "footer.italian",
+    "icon": "statics/images/flags/emc_ico_flag_it.png",
+    "active": true
+  },
+  {
+    "id": 20,
+    "value": "cscz",
+    "label": "footer.czech",
+    "icon": "statics/images/flags/emc_ico_flag_cs.png",
+    "active": true
+  },
+  {
+    "id": 21,
+    "value": "zh_hk",
+    "label": "footer.hongkong",
+    "icon": "statics/images/flags/emc_ico_flag_hk.png",
+    "active": true
+  },
+  {
+    "id": 22,
+    "value": "elel",
+    "label": "footer.greek",
+    "icon": "statics/images/flags/emc_ico_flag_el.png",
+    "active": true
+  }
+]

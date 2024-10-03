@@ -7,5 +7,6 @@
     "typescript",
     "vue"
   ],
-  "vetur.experimental.templateInterpolationService": true
+  "vetur.experimental.templateInterpolationService": true,
+  "java.configuration.updateBuildConfiguration": "interactive"
 }

@@ -1,0 +1,20 @@
+export default {
+  backersNearby: null,
+  petsInTheCommunity: null,
+  blogs: null,
+  requests: null,
+  jobs: null,
+  requestsInbox: null,
+  jobsInbox: null,
+  jobsInboxFull: null,
+  momentsPublic: null,
+  momentsRelated: null,
+  favoritedListings: null,
+  transactionHistory: null,
+  services: null,
+  currencies: null,
+  personalItems: null,
+  supportTickets: null,
+  supportCategories: null,
+  rewardsHistory: null
+}

@@ -1,0 +1,1977 @@
+[{
+    "id": "3",
+    "countryName": "AF",
+    "shortName": "Afghanistan",
+    "currencyCode": "AFN",
+    "mobileCode": "+93",
+    "symbol": "؋"
+  },
+  {
+    "id": "15",
+    "countryName": "ALA",
+    "shortName": "Aland Islands",
+    "currencyCode": "EUR",
+    "mobileCode": "+358",
+    "symbol": "€"
+  },
+  {
+    "id": "6",
+    "countryName": "AL",
+    "shortName": "Albania",
+    "currencyCode": "ALL",
+    "mobileCode": "+355",
+    "symbol": "Lek"
+  },
+  {
+    "id": "62",
+    "countryName": "DZ",
+    "shortName": "Algeria",
+    "currencyCode": "DZD",
+    "mobileCode": "+213",
+    "symbol": "$"
+  },
+  {
+    "id": "11",
+    "countryName": "AS",
+    "shortName": "American Samoa",
+    "currencyCode": "USD",
+    "mobileCode": "+1684",
+    "symbol": "$"
+  },
+  {
+    "id": "1",
+    "countryName": "AD",
+    "shortName": "Andorra",
+    "currencyCode": "EUR",
+    "mobileCode": "+376",
+    "symbol": "€"
+  },
+  {
+    "id": "8",
+    "countryName": "AO",
+    "shortName": "Angola",
+    "currencyCode": "AOA",
+    "mobileCode": "+244",
+    "symbol": "$"
+  },
+  {
+    "id": "5",
+    "countryName": "AI",
+    "shortName": "Anguilla",
+    "currencyCode": "XCD",
+    "mobileCode": "+1264",
+    "symbol": "$"
+  },
+  {
+    "id": "4",
+    "countryName": "AG",
+    "shortName": "Antigua and Barbuda",
+    "currencyCode": "XCD",
+    "mobileCode": "+1268",
+    "symbol": "$"
+  },
+  {
+    "id": "10",
+    "countryName": "AR",
+    "shortName": "Argentina",
+    "currencyCode": "ARS",
+    "mobileCode": "+54",
+    "symbol": "$"
+  },
+  {
+    "id": "7",
+    "countryName": "AM",
+    "shortName": "Armenia",
+    "currencyCode": "AMD",
+    "mobileCode": "+374",
+    "symbol": "$"
+  },
+  {
+    "id": "14",
+    "countryName": "AW",
+    "shortName": "Aruba",
+    "currencyCode": "AWG",
+    "mobileCode": "+297",
+    "symbol": "ƒ"
+  },
+  {
+    "id": "13",
+    "countryName": "AU",
+    "shortName": "Australia",
+    "currencyCode": "AUD",
+    "mobileCode": "+61",
+    "symbol": "$"
+  },
+  {
+    "id": "12",
+    "countryName": "AT",
+    "shortName": "Austria",
+    "currencyCode": "EUR",
+    "mobileCode": "+43",
+    "symbol": "€"
+  },
+  {
+    "id": "16",
+    "countryName": "AZ",
+    "shortName": "Azerbaijan",
+    "currencyCode": "AZN",
+    "mobileCode": "+994",
+    "symbol": "ман"
+  },
+  {
+    "id": "32",
+    "countryName": "BS",
+    "shortName": "Bahamas",
+    "currencyCode": "BSD",
+    "mobileCode": "+1242",
+    "symbol": "$"
+  },
+  {
+    "id": "23",
+    "countryName": "BH",
+    "shortName": "Bahrain",
+    "currencyCode": "BHD",
+    "mobileCode": "+973",
+    "symbol": "$"
+  },
+  {
+    "id": "19",
+    "countryName": "BD",
+    "shortName": "Bangladesh",
+    "currencyCode": "BDT",
+    "mobileCode": "+880",
+    "symbol": "$"
+  },
+  {
+    "id": "18",
+    "countryName": "BB",
+    "shortName": "Barbados",
+    "currencyCode": "BBD",
+    "mobileCode": "+1246",
+    "symbol": "$"
+  },
+  {
+    "id": "36",
+    "countryName": "BY",
+    "shortName": "Belarus",
+    "currencyCode": "BYR",
+    "mobileCode": "+375",
+    "symbol": "p."
+  },
+  {
+    "id": "20",
+    "countryName": "BE",
+    "shortName": "Belgium",
+    "currencyCode": "EUR",
+    "mobileCode": "+32",
+    "symbol": "€"
+  },
+  {
+    "id": "37",
+    "countryName": "BZ",
+    "shortName": "Belize",
+    "currencyCode": "BZD",
+    "mobileCode": "+501",
+    "symbol": "BZ$"
+  },
+  {
+    "id": "25",
+    "countryName": "BJ",
+    "shortName": "Benin",
+    "currencyCode": "XOF",
+    "mobileCode": "+229",
+    "symbol": "$"
+  },
+  {
+    "id": "27",
+    "countryName": "BM",
+    "shortName": "Bermuda",
+    "currencyCode": "BMD",
+    "mobileCode": "+1441",
+    "symbol": "$"
+  },
+  {
+    "id": "33",
+    "countryName": "BT",
+    "shortName": "Bhutan",
+    "currencyCode": "BTN",
+    "mobileCode": "+975",
+    "symbol": "$"
+  },
+  {
+    "id": "29",
+    "countryName": "BO",
+    "shortName": "Bolivia",
+    "currencyCode": "BOB",
+    "mobileCode": "+591",
+    "symbol": "b$"
+  },
+  {
+    "id": "30",
+    "countryName": "BQ",
+    "shortName": "Bonaire, Sint Eustatius and Saba",
+    "currencyCode": "USD",
+    "mobileCode": "+US",
+    "symbol": "$"
+  },
+  {
+    "id": "17",
+    "countryName": "BA",
+    "shortName": "Bosnia and Herzegovina",
+    "currencyCode": "BAM",
+    "mobileCode": "+267",
+    "symbol": "KM"
+  },
+  {
+    "id": "35",
+    "countryName": "BW",
+    "shortName": "Botswana",
+    "currencyCode": "BWP",
+    "mobileCode": "+267",
+    "symbol": "P"
+  },
+  {
+    "id": "34",
+    "countryName": "BV",
+    "shortName": "Bouvet Island",
+    "currencyCode": "NOK",
+    "mobileCode": "+US",
+    "symbol": "kr"
+  },
+  {
+    "id": "31",
+    "countryName": "BR",
+    "shortName": "Brazil",
+    "currencyCode": "BRL",
+    "mobileCode": "+55",
+    "symbol": "R$"
+  },
+  {
+    "id": "107",
+    "countryName": "IO",
+    "shortName": "British Indian Ocean Territory",
+    "currencyCode": "USD",
+    "mobileCode": "+246",
+    "symbol": "$"
+  },
+  {
+    "id": "240",
+    "countryName": "VG",
+    "shortName": "British Virgin Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+1",
+    "symbol": "$"
+  },
+  {
+    "id": "28",
+    "countryName": "BN",
+    "shortName": "Brunei",
+    "currencyCode": "BND",
+    "mobileCode": "+673",
+    "symbol": "$"
+  },
+  {
+    "id": "22",
+    "countryName": "BG",
+    "shortName": "Bulgaria",
+    "currencyCode": "BGN",
+    "mobileCode": "+359",
+    "symbol": "лв"
+  },
+  {
+    "id": "21",
+    "countryName": "BF",
+    "shortName": "Burkina Faso",
+    "currencyCode": "XOF",
+    "mobileCode": "+226",
+    "symbol": "$"
+  },
+  {
+    "id": "24",
+    "countryName": "BI",
+    "shortName": "Burundi",
+    "currencyCode": "BIF",
+    "mobileCode": "+257",
+    "symbol": "$"
+  },
+  {
+    "id": "118",
+    "countryName": "KH",
+    "shortName": "Cambodia",
+    "currencyCode": "KHR",
+    "mobileCode": "+855",
+    "symbol": "៛"
+  },
+  {
+    "id": "47",
+    "countryName": "CM",
+    "shortName": "Cameroon",
+    "currencyCode": "XAF",
+    "mobileCode": "+237",
+    "symbol": "$"
+  },
+  {
+    "id": "38",
+    "countryName": "CA",
+    "shortName": "Canada",
+    "currencyCode": "CAD",
+    "mobileCode": "+1",
+    "symbol": "$"
+  },
+  {
+    "id": "52",
+    "countryName": "CV",
+    "shortName": "Cape Verde",
+    "currencyCode": "CVE",
+    "mobileCode": "+238",
+    "symbol": "$"
+  },
+  {
+    "id": "125",
+    "countryName": "KY",
+    "shortName": "Cayman Islands",
+    "currencyCode": "KYD",
+    "mobileCode": "+1345",
+    "symbol": "$"
+  },
+  {
+    "id": "41",
+    "countryName": "CF",
+    "shortName": "Central African Republic",
+    "currencyCode": "XAF",
+    "mobileCode": "+236",
+    "symbol": "$"
+  },
+  {
+    "id": "216",
+    "countryName": "TD",
+    "shortName": "Chad",
+    "currencyCode": "XAF",
+    "mobileCode": "+235",
+    "symbol": "$"
+  },
+  {
+    "id": "46",
+    "countryName": "CL",
+    "shortName": "Chile",
+    "currencyCode": "CLP",
+    "mobileCode": "+56",
+    "symbol": "$"
+  },
+  {
+    "id": "48",
+    "countryName": "CN",
+    "shortName": "China",
+    "currencyCode": "CNY",
+    "mobileCode": "+86",
+    "symbol": "¥"
+  },
+  {
+    "id": "54",
+    "countryName": "CX",
+    "shortName": "Christmas Island",
+    "currencyCode": "AUD",
+    "mobileCode": "+61",
+    "symbol": "$"
+  },
+  {
+    "id": "39",
+    "countryName": "CC",
+    "shortName": "Cocos Islands",
+    "currencyCode": "AUD",
+    "mobileCode": "+891",
+    "symbol": "$"
+  },
+  {
+    "id": "49",
+    "countryName": "CO",
+    "shortName": "Colombia",
+    "currencyCode": "COP",
+    "mobileCode": "+57",
+    "symbol": "$"
+  },
+  {
+    "id": "120",
+    "countryName": "KM",
+    "shortName": "Comoros",
+    "currencyCode": "KMF",
+    "mobileCode": "+269",
+    "symbol": "$"
+  },
+  {
+    "id": "42",
+    "countryName": "CG",
+    "shortName": "Congo",
+    "currencyCode": "XAF",
+    "mobileCode": "+243",
+    "symbol": "$"
+  },
+  {
+    "id": "45",
+    "countryName": "CK",
+    "shortName": "Cook Islands",
+    "currencyCode": "NZD",
+    "mobileCode": "+682",
+    "symbol": "$"
+  },
+  {
+    "id": "50",
+    "countryName": "CR",
+    "shortName": "Costa Rica",
+    "currencyCode": "CRC",
+    "mobileCode": "+506",
+    "symbol": "₡"
+  },
+  {
+    "id": "44",
+    "countryName": "CIV",
+    "shortName": "Côte dIvoire",
+    "currencyCode": "XOF",
+    "mobileCode": "+225",
+    "symbol": "$"
+  },
+  {
+    "id": "99",
+    "countryName": "HR",
+    "shortName": "Croatia",
+    "currencyCode": "HRK",
+    "mobileCode": "+385",
+    "symbol": "kn"
+  },
+  {
+    "id": "51",
+    "countryName": "CU",
+    "shortName": "Cuba",
+    "currencyCode": "CUC",
+    "mobileCode": "+53",
+    "symbol": "$"
+  },
+  {
+    "id": "53",
+    "countryName": "CUW",
+    "shortName": "Curaçao",
+    "currencyCode": "ANG",
+    "mobileCode": "+US",
+    "symbol": "ƒ"
+  },
+  {
+    "id": "55",
+    "countryName": "CY",
+    "shortName": "Cyprus",
+    "currencyCode": "EUR",
+    "mobileCode": "+357",
+    "symbol": "€"
+  },
+  {
+    "id": "56",
+    "countryName": "CZ",
+    "shortName": "Czech Republic",
+    "currencyCode": "CZK",
+    "mobileCode": "+420",
+    "symbol": "Kč"
+  },
+  {
+    "id": "59",
+    "countryName": "DK",
+    "shortName": "Denmark",
+    "currencyCode": "DKK",
+    "mobileCode": "+45",
+    "symbol": "kr"
+  },
+  {
+    "id": "58",
+    "countryName": "DJ",
+    "shortName": "Djibouti",
+    "currencyCode": "DJF",
+    "mobileCode": "+253",
+    "symbol": "$"
+  },
+  {
+    "id": "60",
+    "countryName": "DM",
+    "shortName": "Dominica",
+    "currencyCode": "XCD",
+    "mobileCode": "+1767",
+    "symbol": "$"
+  },
+  {
+    "id": "61",
+    "countryName": "DO",
+    "shortName": "Dominican Republic",
+    "currencyCode": "DOP",
+    "mobileCode": "+1809",
+    "symbol": "RD$"
+  },
+  {
+    "id": "40",
+    "countryName": "CD",
+    "shortName": "DR Congo",
+    "currencyCode": "CDF",
+    "mobileCode": "+243",
+    "symbol": "$"
+  },
+  {
+    "id": "63",
+    "countryName": "EC",
+    "shortName": "Ecuador",
+    "currencyCode": "USD",
+    "mobileCode": "+593",
+    "symbol": "$"
+  },
+  {
+    "id": "65",
+    "countryName": "EG",
+    "shortName": "Egypt",
+    "currencyCode": "EGP",
+    "mobileCode": "+20",
+    "symbol": "£"
+  },
+  {
+    "id": "211",
+    "countryName": "SV",
+    "shortName": "El Salvador",
+    "currencyCode": "USD",
+    "mobileCode": "+503",
+    "symbol": "$"
+  },
+  {
+    "id": "89",
+    "countryName": "GQ",
+    "shortName": "Equatorial Guinea",
+    "currencyCode": "XAF",
+    "mobileCode": "+240",
+    "symbol": "$"
+  },
+  {
+    "id": "67",
+    "countryName": "ER",
+    "shortName": "Eritrea",
+    "currencyCode": "ERN",
+    "mobileCode": "+291",
+    "symbol": "$"
+  },
+  {
+    "id": "64",
+    "countryName": "EE",
+    "shortName": "Estonia",
+    "currencyCode": "EUR",
+    "mobileCode": "+372",
+    "symbol": "€"
+  },
+  {
+    "id": "69",
+    "countryName": "ET",
+    "shortName": "Ethiopia",
+    "currencyCode": "ETB",
+    "mobileCode": "+251",
+    "symbol": "$"
+  },
+  {
+    "id": "70",
+    "countryName": "EU",
+    "shortName": "European Union",
+    "currencyCode": "EUR",
+    "mobileCode": "+US",
+    "symbol": "€"
+  },
+  {
+    "id": "73",
+    "countryName": "FK",
+    "shortName": "Falkland Islands",
+    "currencyCode": "FKP",
+    "mobileCode": "+500",
+    "symbol": "£"
+  },
+  {
+    "id": "75",
+    "countryName": "FO",
+    "shortName": "Faroe Islands",
+    "currencyCode": "DKK",
+    "mobileCode": "+298",
+    "symbol": "kr"
+  },
+  {
+    "id": "72",
+    "countryName": "FJ",
+    "shortName": "Fiji",
+    "currencyCode": "FJD",
+    "mobileCode": "+679",
+    "symbol": "$"
+  },
+  {
+    "id": "71",
+    "countryName": "FI",
+    "shortName": "Finland",
+    "currencyCode": "EUR",
+    "mobileCode": "+358",
+    "symbol": "€"
+  },
+  {
+    "id": "76",
+    "countryName": "FR",
+    "shortName": "France",
+    "currencyCode": "EUR",
+    "mobileCode": "+33",
+    "symbol": "€"
+  },
+  {
+    "id": "81",
+    "countryName": "GF",
+    "shortName": "French Guiana",
+    "currencyCode": "EUR",
+    "mobileCode": "+594",
+    "symbol": "€"
+  },
+  {
+    "id": "176",
+    "countryName": "PF",
+    "shortName": "French Polynesia",
+    "currencyCode": "XPF",
+    "mobileCode": "+689",
+    "symbol": "$"
+  },
+  {
+    "id": "217",
+    "countryName": "TF",
+    "shortName": "French Southern Territories",
+    "currencyCode": "EUR",
+    "mobileCode": "+US",
+    "symbol": "€"
+  },
+  {
+    "id": "77",
+    "countryName": "GA",
+    "shortName": "Gabon",
+    "currencyCode": "XAF",
+    "mobileCode": "+241",
+    "symbol": "$"
+  },
+  {
+    "id": "86",
+    "countryName": "GM",
+    "shortName": "Gambia",
+    "currencyCode": "GMD",
+    "mobileCode": "+220",
+    "symbol": "$"
+  },
+  {
+    "id": "80",
+    "countryName": "GE",
+    "shortName": "Georgia",
+    "currencyCode": "GEL",
+    "mobileCode": "+995",
+    "symbol": "$"
+  },
+  {
+    "id": "57",
+    "countryName": "DE",
+    "shortName": "Germany",
+    "currencyCode": "EUR",
+    "mobileCode": "+49",
+    "symbol": "€"
+  },
+  {
+    "id": "83",
+    "countryName": "GH",
+    "shortName": "Ghana",
+    "currencyCode": "GHS",
+    "mobileCode": "+233",
+    "symbol": "$"
+  },
+  {
+    "id": "84",
+    "countryName": "GI",
+    "shortName": "Gibraltar",
+    "currencyCode": "GIP",
+    "mobileCode": "+350",
+    "symbol": "£"
+  },
+  {
+    "id": "90",
+    "countryName": "GR",
+    "shortName": "Greece",
+    "currencyCode": "EUR",
+    "mobileCode": "+30",
+    "symbol": "€"
+  },
+  {
+    "id": "85",
+    "countryName": "GL",
+    "shortName": "Greenland",
+    "currencyCode": "DKK",
+    "mobileCode": "+299",
+    "symbol": "kr"
+  },
+  {
+    "id": "79",
+    "countryName": "GD",
+    "shortName": "Grenada",
+    "currencyCode": "XCD",
+    "mobileCode": "+1473",
+    "symbol": "$"
+  },
+  {
+    "id": "88",
+    "countryName": "GP",
+    "shortName": "Guadeloupe",
+    "currencyCode": "EUR",
+    "mobileCode": "+590",
+    "symbol": "€"
+  },
+  {
+    "id": "93",
+    "countryName": "GU",
+    "shortName": "Guam",
+    "currencyCode": "USD",
+    "mobileCode": "+1671",
+    "symbol": "$"
+  },
+  {
+    "id": "92",
+    "countryName": "GT",
+    "shortName": "Guatemala",
+    "currencyCode": "GTQ",
+    "mobileCode": "+502",
+    "symbol": "Q"
+  },
+  {
+    "id": "82",
+    "countryName": "GG",
+    "shortName": "Guernsey",
+    "currencyCode": "GBP",
+    "mobileCode": "+44",
+    "symbol": "£"
+  },
+  {
+    "id": "87",
+    "countryName": "GN",
+    "shortName": "Guinea",
+    "currencyCode": "GNF",
+    "mobileCode": "+224",
+    "symbol": "$"
+  },
+  {
+    "id": "94",
+    "countryName": "GW",
+    "shortName": "GuineaBissau",
+    "currencyCode": "XOF",
+    "mobileCode": "+245",
+    "symbol": "$"
+  },
+  {
+    "id": "95",
+    "countryName": "GY",
+    "shortName": "Guyana",
+    "currencyCode": "GYD",
+    "mobileCode": "+592",
+    "symbol": "$"
+  },
+  {
+    "id": "100",
+    "countryName": "HT",
+    "shortName": "Haiti",
+    "currencyCode": "HTG",
+    "mobileCode": "+509",
+    "symbol": "$"
+  },
+  {
+    "id": "97",
+    "countryName": "HM",
+    "shortName": "Heard Island and McDonald Islands",
+    "currencyCode": "AUD",
+    "mobileCode": "+US",
+    "symbol": "$"
+  },
+  {
+    "id": "98",
+    "countryName": "HN",
+    "shortName": "Honduras",
+    "currencyCode": "HNL",
+    "mobileCode": "+504",
+    "symbol": "L"
+  },
+  {
+    "id": "96",
+    "countryName": "HK",
+    "shortName": "Hong Kong",
+    "currencyCode": "HKD",
+    "mobileCode": "+852",
+    "symbol": "$"
+  },
+  {
+    "id": "101",
+    "countryName": "HU",
+    "shortName": "Hungary",
+    "currencyCode": "HUF",
+    "mobileCode": "+36",
+    "symbol": "Ft"
+  },
+  {
+    "id": "110",
+    "countryName": "IS",
+    "shortName": "Iceland",
+    "currencyCode": "ISK",
+    "mobileCode": "+354",
+    "symbol": "kr"
+  },
+  {
+    "id": "106",
+    "countryName": "IN",
+    "shortName": "India",
+    "currencyCode": "INR",
+    "mobileCode": "+91",
+    "symbol": "$"
+  },
+  {
+    "id": "102",
+    "countryName": "ID",
+    "shortName": "Indonesia",
+    "currencyCode": "IDR",
+    "mobileCode": "+62",
+    "symbol": "Rp"
+  },
+  {
+    "id": "109",
+    "countryName": "IR",
+    "shortName": "Iran",
+    "currencyCode": "IRR",
+    "mobileCode": "+98",
+    "symbol": "﷼"
+  },
+  {
+    "id": "108",
+    "countryName": "IQ",
+    "shortName": "Iraq",
+    "currencyCode": "IQD",
+    "mobileCode": "+964",
+    "symbol": "$"
+  },
+  {
+    "id": "103",
+    "countryName": "IE",
+    "shortName": "Ireland",
+    "currencyCode": "EUR",
+    "mobileCode": "+353",
+    "symbol": "€"
+  },
+  {
+    "id": "105",
+    "countryName": "IMN",
+    "shortName": "Isle of Man",
+    "currencyCode": "GBP",
+    "mobileCode": "+44",
+    "symbol": "£"
+  },
+  {
+    "id": "104",
+    "countryName": "IL",
+    "shortName": "Israel",
+    "currencyCode": "ILS",
+    "mobileCode": "+972",
+    "symbol": "₪"
+  },
+  {
+    "id": "111",
+    "countryName": "IT",
+    "shortName": "Italy",
+    "currencyCode": "EUR",
+    "mobileCode": "+39",
+    "symbol": "€"
+  },
+  {
+    "id": "113",
+    "countryName": "JM",
+    "shortName": "Jamaica",
+    "currencyCode": "JMD",
+    "mobileCode": "+1876",
+    "symbol": "J$"
+  },
+  {
+    "id": "115",
+    "countryName": "JP",
+    "shortName": "Japan",
+    "currencyCode": "JPY",
+    "mobileCode": "+81",
+    "symbol": "¥"
+  },
+  {
+    "id": "112",
+    "countryName": "JEY",
+    "shortName": "Jersey",
+    "currencyCode": "GBP",
+    "mobileCode": "+44",
+    "symbol": "£"
+  },
+  {
+    "id": "114",
+    "countryName": "JO",
+    "shortName": "Jordan",
+    "currencyCode": "JOD",
+    "mobileCode": "+962",
+    "symbol": "$"
+  },
+  {
+    "id": "126",
+    "countryName": "KZ",
+    "shortName": "Kazakhstan",
+    "currencyCode": "KZT",
+    "mobileCode": "+7",
+    "symbol": "лв"
+  },
+  {
+    "id": "116",
+    "countryName": "KE",
+    "shortName": "Kenya",
+    "currencyCode": "KES",
+    "mobileCode": "+254",
+    "symbol": "$"
+  },
+  {
+    "id": "119",
+    "countryName": "KI",
+    "shortName": "Kiribati",
+    "currencyCode": "AUD",
+    "mobileCode": "+686",
+    "symbol": "$"
+  },
+  {
+    "id": "124",
+    "countryName": "KW",
+    "shortName": "Kuwait",
+    "currencyCode": "KWD",
+    "mobileCode": "+965",
+    "symbol": "$"
+  },
+  {
+    "id": "117",
+    "countryName": "KG",
+    "shortName": "Kyrgyzstan",
+    "currencyCode": "KGS",
+    "mobileCode": "+996",
+    "symbol": "лв"
+  },
+  {
+    "id": "127",
+    "countryName": "LA",
+    "shortName": "Laos",
+    "currencyCode": "LAK",
+    "mobileCode": "+856",
+    "symbol": "₭"
+  },
+  {
+    "id": "136",
+    "countryName": "LV",
+    "shortName": "Latvia",
+    "currencyCode": "LVL",
+    "mobileCode": "+371",
+    "symbol": "Ls"
+  },
+  {
+    "id": "128",
+    "countryName": "LB",
+    "shortName": "Lebanon",
+    "currencyCode": "LBP",
+    "mobileCode": "+961",
+    "symbol": "£"
+  },
+  {
+    "id": "133",
+    "countryName": "LS",
+    "shortName": "Lesotho",
+    "currencyCode": "LSL",
+    "mobileCode": "+266",
+    "symbol": "$"
+  },
+  {
+    "id": "132",
+    "countryName": "LR",
+    "shortName": "Liberia",
+    "currencyCode": "LRD",
+    "mobileCode": "+231",
+    "symbol": "$"
+  },
+  {
+    "id": "137",
+    "countryName": "LY",
+    "shortName": "Libya",
+    "currencyCode": "LYD",
+    "mobileCode": "+218",
+    "symbol": "$"
+  },
+  {
+    "id": "130",
+    "countryName": "LI",
+    "shortName": "Liechtenstein",
+    "currencyCode": "CHF",
+    "mobileCode": "+423",
+    "symbol": "$"
+  },
+  {
+    "id": "134",
+    "countryName": "LT",
+    "shortName": "Lithuania",
+    "currencyCode": "LTL",
+    "mobileCode": "+370",
+    "symbol": "Lt"
+  },
+  {
+    "id": "135",
+    "countryName": "LU",
+    "shortName": "Luxembourg",
+    "currencyCode": "EUR",
+    "mobileCode": "+352",
+    "symbol": "€"
+  },
+  {
+    "id": "149",
+    "countryName": "MAC",
+    "shortName": "Macao",
+    "currencyCode": "MOP",
+    "mobileCode": "+853",
+    "symbol": "$"
+  },
+  {
+    "id": "145",
+    "countryName": "MK",
+    "shortName": "Macedonia",
+    "currencyCode": "MKD",
+    "mobileCode": "+389",
+    "symbol": "ден"
+  },
+  {
+    "id": "143",
+    "countryName": "MG",
+    "shortName": "Madagascar",
+    "currencyCode": "MGA",
+    "mobileCode": "+261",
+    "symbol": "$"
+  },
+  {
+    "id": "157",
+    "countryName": "MW",
+    "shortName": "Malawi",
+    "currencyCode": "MWK",
+    "mobileCode": "+265",
+    "symbol": "$"
+  },
+  {
+    "id": "159",
+    "countryName": "MY",
+    "shortName": "Malaysia",
+    "currencyCode": "MYR",
+    "mobileCode": "+60",
+    "symbol": "RM"
+  },
+  {
+    "id": "156",
+    "countryName": "MV",
+    "shortName": "Maldives",
+    "currencyCode": "MVR",
+    "mobileCode": "+960",
+    "symbol": "$"
+  },
+  {
+    "id": "146",
+    "countryName": "ML",
+    "shortName": "Mali",
+    "currencyCode": "XOF",
+    "mobileCode": "+223",
+    "symbol": "$"
+  },
+  {
+    "id": "154",
+    "countryName": "MT",
+    "shortName": "Malta",
+    "currencyCode": "EUR",
+    "mobileCode": "+356",
+    "symbol": "€"
+  },
+  {
+    "id": "144",
+    "countryName": "MH",
+    "shortName": "Marshall Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+692",
+    "symbol": "$"
+  },
+  {
+    "id": "151",
+    "countryName": "MQ",
+    "shortName": "Martinique",
+    "currencyCode": "EUR",
+    "mobileCode": "+596",
+    "symbol": "€"
+  },
+  {
+    "id": "152",
+    "countryName": "MR",
+    "shortName": "Mauritania",
+    "currencyCode": "MRO",
+    "mobileCode": "+222",
+    "symbol": "$"
+  },
+  {
+    "id": "155",
+    "countryName": "MU",
+    "shortName": "Mauritius",
+    "currencyCode": "MUR",
+    "mobileCode": "+230",
+    "symbol": "₨"
+  },
+  {
+    "id": "247",
+    "countryName": "YT",
+    "shortName": "Mayotte",
+    "currencyCode": "EUR",
+    "mobileCode": "+262",
+    "symbol": "€"
+  },
+  {
+    "id": "158",
+    "countryName": "MX",
+    "shortName": "Mexico",
+    "currencyCode": "MXN",
+    "mobileCode": "+52",
+    "symbol": "$"
+  },
+  {
+    "id": "74",
+    "countryName": "FM",
+    "shortName": "Micronesia",
+    "currencyCode": "USD",
+    "mobileCode": "+691",
+    "symbol": "$"
+  },
+  {
+    "id": "140",
+    "countryName": "MD",
+    "shortName": "Moldova",
+    "currencyCode": "MDL",
+    "mobileCode": "+373",
+    "symbol": "$"
+  },
+  {
+    "id": "139",
+    "countryName": "MC",
+    "shortName": "Monaco",
+    "currencyCode": "EUR",
+    "mobileCode": "+377",
+    "symbol": "€"
+  },
+  {
+    "id": "148",
+    "countryName": "MN",
+    "shortName": "Mongolia",
+    "currencyCode": "MNT",
+    "mobileCode": "+976",
+    "symbol": "₮"
+  },
+  {
+    "id": "141",
+    "countryName": "ME",
+    "shortName": "Montenegro",
+    "currencyCode": "EUR",
+    "mobileCode": "+382",
+    "symbol": "€"
+  },
+  {
+    "id": "153",
+    "countryName": "MS",
+    "shortName": "Montserrat",
+    "currencyCode": "XCD",
+    "mobileCode": "+1664",
+    "symbol": "$"
+  },
+  {
+    "id": "138",
+    "countryName": "MA",
+    "shortName": "Morocco",
+    "currencyCode": "MAD",
+    "mobileCode": "+212",
+    "symbol": "$"
+  },
+  {
+    "id": "160",
+    "countryName": "MOZ",
+    "shortName": "Mozambique",
+    "currencyCode": "MZN",
+    "mobileCode": "+258",
+    "symbol": "MT"
+  },
+  {
+    "id": "147",
+    "countryName": "MM",
+    "shortName": "Myanmar",
+    "currencyCode": "MMK",
+    "mobileCode": "+95",
+    "symbol": "$"
+  },
+  {
+    "id": "161",
+    "countryName": "NA",
+    "shortName": "Namibia",
+    "currencyCode": "NAD",
+    "mobileCode": "+264",
+    "symbol": "$"
+  },
+  {
+    "id": "170",
+    "countryName": "NR",
+    "shortName": "Nauru",
+    "currencyCode": "AUD",
+    "mobileCode": "+674",
+    "symbol": "$"
+  },
+  {
+    "id": "169",
+    "countryName": "NP",
+    "shortName": "Nepal",
+    "currencyCode": "NPR",
+    "mobileCode": "+977",
+    "symbol": "₨"
+  },
+  {
+    "id": "167",
+    "countryName": "NL",
+    "shortName": "Netherlands",
+    "currencyCode": "EUR",
+    "mobileCode": "+31",
+    "symbol": "€"
+  },
+  {
+    "id": "162",
+    "countryName": "NC",
+    "shortName": "New Caledonia",
+    "currencyCode": "XPF",
+    "mobileCode": "+687",
+    "symbol": "$"
+  },
+  {
+    "id": "172",
+    "countryName": "NZ",
+    "shortName": "New Zealand",
+    "currencyCode": "NZD",
+    "mobileCode": "+64",
+    "symbol": "$"
+  },
+  {
+    "id": "166",
+    "countryName": "NI",
+    "shortName": "Nicaragua",
+    "currencyCode": "NIO",
+    "mobileCode": "+505",
+    "symbol": "C$"
+  },
+  {
+    "id": "163",
+    "countryName": "NE",
+    "shortName": "Niger",
+    "currencyCode": "XOF",
+    "mobileCode": "+227",
+    "symbol": "$"
+  },
+  {
+    "id": "165",
+    "countryName": "NG",
+    "shortName": "Nigeria",
+    "currencyCode": "NGN",
+    "mobileCode": "+234",
+    "symbol": "₦"
+  },
+  {
+    "id": "171",
+    "countryName": "NU",
+    "shortName": "Niue",
+    "currencyCode": "NZD",
+    "mobileCode": "+683",
+    "symbol": "$"
+  },
+  {
+    "id": "164",
+    "countryName": "NF",
+    "shortName": "Norfolk Island",
+    "currencyCode": "AUD",
+    "mobileCode": "+672",
+    "symbol": "$"
+  },
+  {
+    "id": "122",
+    "countryName": "KP",
+    "shortName": "North Korea",
+    "currencyCode": "KPW",
+    "mobileCode": "+850",
+    "symbol": "₩"
+  },
+  {
+    "id": "150",
+    "countryName": "MP",
+    "shortName": "Northern Mariana Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+1670",
+    "symbol": "$"
+  },
+  {
+    "id": "168",
+    "countryName": "NO",
+    "shortName": "Norway",
+    "currencyCode": "NOK",
+    "mobileCode": "+47",
+    "symbol": "kr"
+  },
+  {
+    "id": "173",
+    "countryName": "OM",
+    "shortName": "Oman",
+    "currencyCode": "OMR",
+    "mobileCode": "+968",
+    "symbol": "﷼"
+  },
+  {
+    "id": "179",
+    "countryName": "PK",
+    "shortName": "Pakistan",
+    "currencyCode": "PKR",
+    "mobileCode": "+92",
+    "symbol": "₨"
+  },
+  {
+    "id": "186",
+    "countryName": "PW",
+    "shortName": "Palau",
+    "currencyCode": "USD",
+    "mobileCode": "+680",
+    "symbol": "$"
+  },
+  {
+    "id": "174",
+    "countryName": "PA",
+    "shortName": "Panama",
+    "currencyCode": "PAB",
+    "mobileCode": "+507",
+    "symbol": "B/."
+  },
+  {
+    "id": "177",
+    "countryName": "PG",
+    "shortName": "Papua New Guinea",
+    "currencyCode": "PGK",
+    "mobileCode": "+675",
+    "symbol": "$"
+  },
+  {
+    "id": "187",
+    "countryName": "PY",
+    "shortName": "Paraguay",
+    "currencyCode": "PYG",
+    "mobileCode": "+595",
+    "symbol": "Gs"
+  },
+  {
+    "id": "175",
+    "countryName": "PE",
+    "shortName": "Peru",
+    "currencyCode": "PEN",
+    "mobileCode": "+51",
+    "symbol": "S/."
+  },
+  {
+    "id": "178",
+    "countryName": "PH",
+    "shortName": "Philippines",
+    "currencyCode": "PHP",
+    "mobileCode": "+63",
+    "symbol": "₱"
+  },
+  {
+    "id": "182",
+    "countryName": "PN",
+    "shortName": "Pitcairn",
+    "currencyCode": "NZD",
+    "mobileCode": "+870",
+    "symbol": "$"
+  },
+  {
+    "id": "180",
+    "countryName": "PL",
+    "shortName": "Poland",
+    "currencyCode": "PLN",
+    "mobileCode": "+48",
+    "symbol": "zł"
+  },
+  {
+    "id": "185",
+    "countryName": "PT",
+    "shortName": "Portugal",
+    "currencyCode": "EUR",
+    "mobileCode": "+351",
+    "symbol": "€"
+  },
+  {
+    "id": "183",
+    "countryName": "PR",
+    "shortName": "Puerto Rico",
+    "currencyCode": "USD",
+    "mobileCode": "+1",
+    "symbol": "$"
+  },
+  {
+    "id": "188",
+    "countryName": "QA",
+    "shortName": "Qatar",
+    "currencyCode": "QAR",
+    "mobileCode": "+974",
+    "symbol": "﷼"
+  },
+  {
+    "id": "189",
+    "countryName": "RE",
+    "shortName": "Réunion",
+    "currencyCode": "EUR",
+    "mobileCode": "+",
+    "symbol": "€"
+  },
+  {
+    "id": "190",
+    "countryName": "RO",
+    "shortName": "Romania",
+    "currencyCode": "RON",
+    "mobileCode": "+40",
+    "symbol": "lei"
+  },
+  {
+    "id": "192",
+    "countryName": "RU",
+    "shortName": "Russia",
+    "currencyCode": "RUB",
+    "mobileCode": "+7",
+    "symbol": "руб"
+  },
+  {
+    "id": "193",
+    "countryName": "RW",
+    "shortName": "Rwanda",
+    "currencyCode": "RWF",
+    "mobileCode": "+250",
+    "symbol": "$"
+  },
+  {
+    "id": "26",
+    "countryName": "BL",
+    "shortName": "Saint Barthélemy",
+    "currencyCode": "EUR",
+    "mobileCode": "+590",
+    "symbol": "€"
+  },
+  {
+    "id": "200",
+    "countryName": "SH",
+    "shortName": "Saint Helena, Ascension and Tristan da Cunha",
+    "currencyCode": "SHP",
+    "mobileCode": "+290",
+    "symbol": "£"
+  },
+  {
+    "id": "121",
+    "countryName": "KN",
+    "shortName": "Saint Kitts and Nevis",
+    "currencyCode": "XCD",
+    "mobileCode": "+1869",
+    "symbol": "$"
+  },
+  {
+    "id": "129",
+    "countryName": "LC",
+    "shortName": "Saint Lucia",
+    "currencyCode": "XCD",
+    "mobileCode": "+1758",
+    "symbol": "$"
+  },
+  {
+    "id": "142",
+    "countryName": "MF",
+    "shortName": "Saint Martin",
+    "currencyCode": "EUR",
+    "mobileCode": "+1599",
+    "symbol": "€"
+  },
+  {
+    "id": "181",
+    "countryName": "APM",
+    "shortName": "Saint Pierre and Miquelon",
+    "currencyCode": "EUR",
+    "mobileCode": "+590",
+    "symbol": "€"
+  },
+  {
+    "id": "238",
+    "countryName": "VC",
+    "shortName": "Saint Vincent and the Grenadines",
+    "currencyCode": "XCD",
+    "mobileCode": "+1",
+    "symbol": "$"
+  },
+  {
+    "id": "245",
+    "countryName": "WS",
+    "shortName": "Samoa",
+    "currencyCode": "WST",
+    "mobileCode": "+685",
+    "symbol": "$"
+  },
+  {
+    "id": "205",
+    "countryName": "SM",
+    "shortName": "San Marino",
+    "currencyCode": "EUR",
+    "mobileCode": "+378",
+    "symbol": "€"
+  },
+  {
+    "id": "210",
+    "countryName": "ST",
+    "shortName": "Sao Tome and Principe",
+    "currencyCode": "STD",
+    "mobileCode": "+239",
+    "symbol": "$"
+  },
+  {
+    "id": "194",
+    "countryName": "SA",
+    "shortName": "Saudi Arabia",
+    "currencyCode": "SAR",
+    "mobileCode": "+966",
+    "symbol": "﷼"
+  },
+  {
+    "id": "206",
+    "countryName": "SN",
+    "shortName": "Senegal",
+    "currencyCode": "XOF",
+    "mobileCode": "+221",
+    "symbol": "$"
+  },
+  {
+    "id": "191",
+    "countryName": "RS",
+    "shortName": "Serbia",
+    "currencyCode": "RSD",
+    "mobileCode": "+381",
+    "symbol": "Дин."
+  },
+  {
+    "id": "196",
+    "countryName": "SC",
+    "shortName": "Seychelles",
+    "currencyCode": "SCR",
+    "mobileCode": "+248",
+    "symbol": "₨"
+  },
+  {
+    "id": "204",
+    "countryName": "SL",
+    "shortName": "Sierra Leone",
+    "currencyCode": "SLL",
+    "mobileCode": "+232",
+    "symbol": "$"
+  },
+  {
+    "id": "199",
+    "countryName": "SG",
+    "shortName": "Singapore",
+    "currencyCode": "SGD",
+    "mobileCode": "+65",
+    "symbol": "$"
+  },
+  {
+    "id": "212",
+    "countryName": "SM",
+    "shortName": "Sint Maarten",
+    "currencyCode": "ANG",
+    "mobileCode": "+1",
+    "symbol": "ƒ"
+  },
+  {
+    "id": "203",
+    "countryName": "SK",
+    "shortName": "Slovakia",
+    "currencyCode": "EUR",
+    "mobileCode": "+421",
+    "symbol": "€"
+  },
+  {
+    "id": "201",
+    "countryName": "SI",
+    "shortName": "Slovenia",
+    "currencyCode": "EUR",
+    "mobileCode": "+386",
+    "symbol": "€"
+  },
+  {
+    "id": "195",
+    "countryName": "SB",
+    "shortName": "Solomon Islands",
+    "currencyCode": "SBD",
+    "mobileCode": "+677",
+    "symbol": "$"
+  },
+  {
+    "id": "207",
+    "countryName": "SO",
+    "shortName": "Somalia",
+    "currencyCode": "SOS",
+    "mobileCode": "+252",
+    "symbol": "S"
+  },
+  {
+    "id": "248",
+    "countryName": "ZA",
+    "shortName": "South Africa",
+    "currencyCode": "ZAR",
+    "mobileCode": "+27",
+    "symbol": "R"
+  },
+  {
+    "id": "123",
+    "countryName": "KR",
+    "shortName": "South Korea",
+    "currencyCode": "KRW",
+    "mobileCode": "+82",
+    "symbol": "₩"
+  },
+  {
+    "id": "209",
+    "countryName": "SS",
+    "shortName": "South Sudan",
+    "currencyCode": "SSP",
+    "mobileCode": "+211",
+    "symbol": "$"
+  },
+  {
+    "id": "68",
+    "countryName": "ES",
+    "shortName": "Spain",
+    "currencyCode": "EUR",
+    "mobileCode": "+34",
+    "symbol": "€"
+  },
+  {
+    "id": "131",
+    "countryName": "LK",
+    "shortName": "Sri Lanka",
+    "currencyCode": "LKR",
+    "mobileCode": "+94",
+    "symbol": "₨"
+  },
+  {
+    "id": "197",
+    "countryName": "SD",
+    "shortName": "Sudan",
+    "currencyCode": "SDG",
+    "mobileCode": "+249",
+    "symbol": "$"
+  },
+  {
+    "id": "208",
+    "countryName": "SR",
+    "shortName": "Suriname",
+    "currencyCode": "SRD",
+    "mobileCode": "+597",
+    "symbol": "$"
+  },
+  {
+    "id": "202",
+    "countryName": "SJ",
+    "shortName": "Svalbard and Jan Mayen",
+    "currencyCode": "NOK",
+    "mobileCode": "+US",
+    "symbol": "kr"
+  },
+  {
+    "id": "214",
+    "countryName": "SZ",
+    "shortName": "Swaziland",
+    "currencyCode": "SZL",
+    "mobileCode": "+268",
+    "symbol": "$"
+  },
+  {
+    "id": "198",
+    "countryName": "SE",
+    "shortName": "Sweden",
+    "currencyCode": "SEK",
+    "mobileCode": "+46",
+    "symbol": "kr"
+  },
+  {
+    "id": "43",
+    "countryName": "CH",
+    "shortName": "Switzerland",
+    "currencyCode": "CHF",
+    "mobileCode": "+41",
+    "symbol": "$"
+  },
+  {
+    "id": "213",
+    "countryName": "SY",
+    "shortName": "Syrian Arab Republic",
+    "currencyCode": "SYP",
+    "mobileCode": "+963",
+    "symbol": "£"
+  },
+  {
+    "id": "229",
+    "countryName": "TW",
+    "shortName": "Taiwan",
+    "currencyCode": "TWD",
+    "mobileCode": "+886",
+    "symbol": "NT$"
+  },
+  {
+    "id": "220",
+    "countryName": "TJ",
+    "shortName": "Tajikistan",
+    "currencyCode": "TJS",
+    "mobileCode": "+992",
+    "symbol": "$"
+  },
+  {
+    "id": "230",
+    "countryName": "TZ",
+    "shortName": "Tanzania",
+    "currencyCode": "TZS",
+    "mobileCode": "+255",
+    "symbol": "$"
+  },
+  {
+    "id": "219",
+    "countryName": "TH",
+    "shortName": "Thailand",
+    "currencyCode": "THB",
+    "mobileCode": "+66",
+    "symbol": "฿"
+  },
+  {
+    "id": "222",
+    "countryName": "TP",
+    "shortName": "TimorLeste",
+    "currencyCode": "USD",
+    "mobileCode": "+670",
+    "symbol": "$"
+  },
+  {
+    "id": "218",
+    "countryName": "TG",
+    "shortName": "Togo",
+    "currencyCode": "XOF",
+    "mobileCode": "+228",
+    "symbol": "$"
+  },
+  {
+    "id": "221",
+    "countryName": "TK",
+    "shortName": "Tokelau",
+    "currencyCode": "NZD",
+    "mobileCode": "+690",
+    "symbol": "$"
+  },
+  {
+    "id": "225",
+    "countryName": "TO",
+    "shortName": "Tonga",
+    "currencyCode": "TOP",
+    "mobileCode": "+676",
+    "symbol": "$"
+  },
+  {
+    "id": "227",
+    "countryName": "TT",
+    "shortName": "Trinidad and Tobago",
+    "currencyCode": "TTD",
+    "mobileCode": "+1868",
+    "symbol": "TT$"
+  },
+  {
+    "id": "224",
+    "countryName": "TN",
+    "shortName": "Tunisia",
+    "currencyCode": "TND",
+    "mobileCode": "+216",
+    "symbol": "$"
+  },
+  {
+    "id": "226",
+    "countryName": "TR",
+    "shortName": "Turkey",
+    "currencyCode": "TRY",
+    "mobileCode": "+90",
+    "symbol": "TL"
+  },
+  {
+    "id": "223",
+    "countryName": "TM",
+    "shortName": "Turkmenistan",
+    "currencyCode": "TMT",
+    "mobileCode": "+993",
+    "symbol": "$"
+  },
+  {
+    "id": "215",
+    "countryName": "TC",
+    "shortName": "Turks and Caicos Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+1649",
+    "symbol": "$"
+  },
+  {
+    "id": "228",
+    "countryName": "TV",
+    "shortName": "Tuvalu",
+    "currencyCode": "AUD",
+    "mobileCode": "+668",
+    "symbol": "$"
+  },
+  {
+    "id": "233",
+    "countryName": "UM",
+    "shortName": "U.S. Minor Outlying Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+US",
+    "symbol": "$"
+  },
+  {
+    "id": "241",
+    "countryName": "VIR",
+    "shortName": "U.S. Virgin Islands",
+    "currencyCode": "USD",
+    "mobileCode": "+1340",
+    "symbol": "$"
+  },
+  {
+    "id": "232",
+    "countryName": "UG",
+    "shortName": "Uganda",
+    "currencyCode": "UGX",
+    "mobileCode": "+256",
+    "symbol": "$"
+  },
+  {
+    "id": "231",
+    "countryName": "UA",
+    "shortName": "Ukraine",
+    "currencyCode": "UAH",
+    "mobileCode": "+380",
+    "symbol": "₴"
+  },
+  {
+    "id": "2",
+    "countryName": "AE",
+    "shortName": "United Arab Emirates",
+    "currencyCode": "AED",
+    "mobileCode": "+971",
+    "symbol": "$"
+  },
+  {
+    "id": "78",
+    "countryName": "GB",
+    "shortName": "United Kingdom",
+    "currencyCode": "GBP",
+    "mobileCode": "+44",
+    "symbol": "£"
+  },
+  {
+    "id": "234",
+    "countryName": "US",
+    "shortName": "United States",
+    "currencyCode": "USD",
+    "mobileCode": "+1",
+    "symbol": "$"
+  },
+  {
+    "id": "235",
+    "countryName": "UY",
+    "shortName": "Uruguay",
+    "currencyCode": "UYU",
+    "mobileCode": "+598",
+    "symbol": "$"
+  },
+  {
+    "id": "236",
+    "countryName": "UZ",
+    "shortName": "Uzbekistan",
+    "currencyCode": "UZS",
+    "mobileCode": "+998",
+    "symbol": "лв"
+  },
+  {
+    "id": "243",
+    "countryName": "VU",
+    "shortName": "Vanuatu",
+    "currencyCode": "VUV",
+    "mobileCode": "+678",
+    "symbol": "$"
+  },
+  {
+    "id": "237",
+    "countryName": "VA",
+    "shortName": "Vatican City",
+    "currencyCode": "EUR",
+    "mobileCode": "+379",
+    "symbol": "€"
+  },
+  {
+    "id": "239",
+    "countryName": "VE",
+    "shortName": "Venezuela",
+    "currencyCode": "VEF",
+    "mobileCode": "+58",
+    "symbol": "Bs"
+  },
+  {
+    "id": "242",
+    "countryName": "VN",
+    "shortName": "Vietnam",
+    "currencyCode": "VND",
+    "mobileCode": "+84",
+    "symbol": "₫"
+  },
+  {
+    "id": "244",
+    "countryName": "WF",
+    "shortName": "Wallis and Futuna",
+    "currencyCode": "XPF",
+    "mobileCode": "+681",
+    "symbol": "$"
+  },
+  {
+    "id": "66",
+    "countryName": "EH",
+    "shortName": "Western Sahara",
+    "currencyCode": "MAD",
+    "mobileCode": "+212",
+    "symbol": "$"
+  },
+  {
+    "id": "246",
+    "countryName": "YE",
+    "shortName": "Yemen",
+    "currencyCode": "YER",
+    "mobileCode": "+967",
+    "symbol": "﷼"
+  },
+  {
+    "id": "249",
+    "countryName": "ZM",
+    "shortName": "Zambia",
+    "currencyCode": "ZMK",
+    "mobileCode": "+260",
+    "symbol": "$"
+  },
+  {
+    "id": "250",
+    "countryName": "ZW",
+    "shortName": "Zimbabwe",
+    "currencyCode": "ZWL",
+    "mobileCode": "+263",
+    "symbol": "$"
+  }
+]

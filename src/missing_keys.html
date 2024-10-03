@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compare INI Files</title>
+</head>
+
+<body>
+    <div id="result"></div>
+
+    <script>
+        // Get the URL from the current page
+            const url = new URL( window.location.href );
+
+            // Get the value of the "lang" parameter
+            const langValue = url.searchParams.get( "lang" );
+
+            console.log( langValue ); // This will log "elel" to the console
+            if (langValue) {
+                // Read the contents of the files
+                fetch( `i18n/${ langValue }/index.js` )
+                    .then( response => response.text() )
+                    .then( file1Contents => {
+                        fetch( `i18n/en/index.js` )
+                            .then( response => response.text() )
+                            .then( file2Contents => {
+                                compareINIFiles( file1Contents, file2Contents );
+                            } );
+                    } );
+            } else {
+                const resultDiv = document.getElementById( 'result' );
+                resultDiv.innerHTML = 'use query string ?lang={lang}';
+            }
+        
+
+        function compareINIFiles ( file1Contents, file2Contents ) {
+            const keys1 = extractKeys( file1Contents );
+            const keys2 = extractKeys( file2Contents );
+
+            const missingKeys = keys2.filter( key => !keys1.includes( key ) );
+
+            const resultDiv = document.getElementById( 'result' );
+            resultDiv.innerHTML = '';
+
+            missingKeys.forEach( key => {
+                const line = key + ': ' + getValueForKey( key, file2Contents );
+                const div = document.createElement( 'div' );
+                div.innerHTML = line;
+                resultDiv.appendChild( div );
+            } );
+        }
+
+        function extractKeys ( contents ) {
+            const lines = contents.split( '\n' );
+            const keys = [];
+
+            lines.forEach( line => {
+                const keyValuePair = line.trim().split( ':' );
+                if ( keyValuePair.length === 2 || 1 == 1 ) {
+                    keys.push( keyValuePair[ 0 ].trim() );
+                }
+            } );
+
+            return keys;
+        }
+
+        function getValueForKey ( key, contents ) {
+            const lines = contents.split( '\n' );
+
+            for ( const line of lines ) {
+                const keyValuePair = line.trim().split( ':' );
+                if (keyValuePair[ 0 ].trim() === key ) {
+                    return keyValuePair[ 1 ].trim();
+                }
+            }
+
+            return '';
+        }
+    </script>
+</body>
+
+</html>

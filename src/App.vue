@@ -1,5 +1,5 @@
 <template>
-  <div id="q-app">
+  <div id="q-app" :class="$route.name + ' ' + $store.getters['user/getCurrentLanguage'] ">
     <router-view />
   </div>
 </template>

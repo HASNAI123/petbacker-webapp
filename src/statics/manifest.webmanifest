@@ -1,0 +1,38 @@
+{  
+  "name": "PetBacker",
+  "short_name": "PetBacker",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "description": "PetBacker: Dog Cat Pet Sitting",
+  "icons": [{
+    "src": "icons/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }, {
+    "src": "icons/icon-384x384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+  }, {
+    "src": "icons/icon-256x256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "icons/icon-128x128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+  "orientation": "portrait-primary",
+  "prefer_related_applications": true,
+  "related_applications": [{
+    "platform": "itunes",
+    "id": "https://apps.apple.com/app/id1168037472"
+  }, {
+    "platform": "play",
+    "id": "https://play.google.com/store/apps/details?id=com.petbacker.android"
+  }]
+}

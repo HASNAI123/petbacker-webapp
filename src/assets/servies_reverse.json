@@ -1,0 +1,85 @@
+[{
+    "id": 25,
+    "parentId": 24,
+    "shortName": "services.veterinarian.short",
+    "name": "services.veterinarian",
+    "link": "/services/book-veterinarian",
+    "icon": "statics/images/service-icons/veterinarian.png",
+    "header": "statics/images/servicecovers/vet.jpg"
+  },
+  {
+    "id": 28,
+    "parentId": 27,
+    "shortName": "services.pettraining.short",
+    "name": "services.pettraining",
+    "link": "/services/book-pet-training",
+    "icon": "statics/images/service-icons/pet-training.png",
+    "header": "statics/images/servicecovers/dog-training.jpg"
+  },
+  {
+    "id": 30,
+    "parentId": 29,
+    "shortName": "services.petphotography.short",
+    "name": "services.petphotography",
+    "link": "/services/book-pet-photography",
+    "icon": "statics/images/service-icons/pet-photography.png",
+    "header": "statics/images/servicecovers/dog-boarding.jpg"
+  },
+  {
+    "id": 19,
+    "parentId": 18,
+    "shortName": "services.petgrooming.short",
+    "name": "services.petgrooming",
+    "link": "/services/book-pet-grooming",
+    "icon": "statics/images/service-icons/pet-grooming.png",
+    "header": "statics/images/servicecovers/cat-grooming.jpg"
+  },
+  {
+    "id": 22,
+    "parentId": 21,
+    "shortName": "services.pettaxi.short",
+    "name": "services.pettaxi",
+    "link": "/services/book-pet-pick-up-and-drop-off",
+    "icon": "statics/images/service-icons/pet-taxi.png",
+    "header": "statics/images/servicecovers/pet-pick-up.jpg",
+    "alternativeLink": "/services/book-pet-taxi"
+  },
+  {
+    "id": 16,
+    "parentId": 12,
+    "shortName": "services.dogwalking.short",
+    "name": "services.dogwalking",
+    "link": "/services/book-dog-walking",
+    "icon": "statics/images/service-icons/dog-walking.png",
+    "header": "statics/images/servicecovers/dog-walking.jpg"
+  },
+  {
+    "id": 13,
+    "parentId": 11,
+    "shortName": "services.pethousesitting.short",
+    "name": "services.pethousesitting",
+    "link": "/services/book-pet-house-sitting",
+    "icon": "statics/images/service-icons/pet-house-sitting.png",
+    "header": "statics/images/servicecovers/pet-house-sitting.jpg",
+    "alternativeLink": "/services/book-pet-sitting"
+  },
+  {
+    "id": 8,
+    "parentId": 4,
+    "shortName": "services.petdaycare.short",
+    "name": "services.petdaycare",
+    "link": "/services/book-pet-daycare",
+    "icon": "statics/images/service-icons/pet-day-care.png",
+    "header": "statics/images/servicecovers/pet-daycare.jpg"
+  },
+  {
+    "id": 5,
+    "parentId": 3,
+    "shortName": "services.petboarding.short",
+    "name": "services.petboarding",
+    "link": "/services/book-pet-boarding",
+    "icon": "statics/images/service-icons/pet-boarding.png",
+    "header": "statics/images/servicecovers/dog-boarding.jpg",
+    "alternativeLink": "/services/hire-pet-boarding"
+  }
+]
