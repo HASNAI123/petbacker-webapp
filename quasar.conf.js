@@ -16,7 +16,7 @@ module.exports = function (ctx) {
       'underscore',
       'vue-notifications',
     ],
-    css: [],
+    css: ['app.styl'],
     extras: ['roboto-font', 'material-icons'],
 
     build: {
@@ -174,44 +174,45 @@ module.exports = function (ctx) {
     animations: [],
     ssr: { pwa: false },
     pwa: {
-      workboxPluginMode: 'GenerateSW',
+      workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
+      workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `app.petbacker.com`,
-        short_name: `app.petbacker.com`,
-        description: `Sitter app`,
-        display: 'standalone',
+        name: 'PetBacker',
+        short_name: 'PetBacker',
+        description: 'PetBacker WebApp',
+        display: 'fullscreen',
+        orientation: 'portrait',
         background_color: '#ffffff',
         theme_color: '#027be3',
         icons: [
           {
-            src: 'icons/icon-128x128.png',
+            src: 'statics/icons/icon-128x128.png',
             sizes: '128x128',
-            type: 'image/png',
+            type: 'image/png'
           },
           {
-            src: 'icons/icon-192x192.png',
+            src: 'statics/icons/icon-192x192.png',
             sizes: '192x192',
-            type: 'image/png',
+            type: 'image/png'
           },
           {
-            src: 'icons/icon-256x256.png',
+            src: 'statics/icons/icon-256x256.png',
             sizes: '256x256',
-            type: 'image/png',
+            type: 'image/png'
           },
           {
-            src: 'icons/icon-384x384.png',
+            src: 'statics/icons/icon-384x384.png',
             sizes: '384x384',
-            type: 'image/png',
+            type: 'image/png'
           },
           {
-            src: 'icons/icon-512x512.png',
+            src: 'statics/icons/icon-512x512.png',
             sizes: '512x512',
-            type: 'image/png',
-          },
-        ],
-      },
+            type: 'image/png'
+          }
+        ]
+      }
     },
-
     capacitor: {
       hideSplashscreen: false,
     },

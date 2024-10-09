@@ -1,41 +1,31 @@
-import axios from 'axios'
-import { createConcatHashedSignature } from '../assets/signatureHashing.js'
+import axios from 'axios';
+import { createConcatHashedSignature } from '../assets/signatureHashing.js';
 
 export default ({ Vue }) => {
+  // Set the base URL explicitly
+  const apiUrl = 'https://api.petbacker.com/v5'; // Set the base URL as required
+
+  // Log the base URL for debugging
+  console.log('Base URL:', apiUrl);
+
+  // Create the Axios instance with the desired base URL
   Vue.prototype.$axios = axios.create({
-     baseURL: process.env.PETBACKER_API_V5,
-    // baseURL: process.env.PETBACKER_API_STAGING_V5,
-    // baseURL: process.env.PETBACKER_API_STAGING_DEV,
+    baseURL: apiUrl, // Set the base URL directly
     headers: {
       'Content-Type': 'application/json'
     }
-  })
-  // ensure production origin will always use production API
-  if (window.location.origin === 'https://web.petbacker.com') {
-    Vue.prototype.$axios.defaults.baseURL = process.env.PETBACKER_API_V5
-    // Vue.prototype.$axios.defaults.baseURL = process.env.PETBACKER_API_STAGING_V5
-  }
+  });
 
-  // ensure petbacker-demo2 origin will always use new staging dev API
-  if (window.location.origin === 'https://petbacker-demo2.web.app') {
-    Vue.prototype.$axios.defaults.baseURL = process.env.PETBACKER_API_STAGING_DEV
-    // Vue.prototype.$axios.defaults.baseURL = process.env.PETBACKER_API_STAGING_V5
-  }
+  // Add interceptors or any other configuration as needed
   axios.interceptors.request.use((config) => {
-    // Check if the request URL contains a specific parameter
-    if (!config.url || !config.url.includes('k=13674c3b66275a11')) {
-      var sig = createConcatHashedSignature(config.url)
-      config.headers['X-Signature'] = sig
-    }
-    return config
-  })
+    // Log the config URL for debugging
+    console.log('Request URL:', config.url);
 
-  Vue.prototype.$axios.interceptors.request.use((config) => {
-    // Check if the request URL contains a specific parameter
+    // Add the signature header conditionally
     if (!config.url || !config.url.includes('k=13674c3b66275a11')) {
-      var sig = createConcatHashedSignature(config.url)
-      config.headers['X-Signature'] = sig
+      const sig = createConcatHashedSignature(config.url);
+      config.headers['X-Signature'] = sig;
     }
-    return config
-  })
-}
+    return config;
+  });
+};
